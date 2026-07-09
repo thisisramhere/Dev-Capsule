@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+devcapsule_scan.json
+devcapsule.yaml
+devcapsule.vault
+devcapsule_install_missing.sh
+.venv/
