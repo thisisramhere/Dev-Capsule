@@ -1,6 +1,6 @@
 # DevCapsule : AI-Powered Developer Environment Replicator
 
-DevCapsule scans a developer's machine, packages the full setup — editor,
+DevCapsule scans a developer's machine, packages the full setup editor,
 extensions, settings, runtimes, package managers, dev tools, and AI coding
 assistants — into a single portable `devcapsule.yaml`, and restores that
 exact setup on a new machine with one command.
