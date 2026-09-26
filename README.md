@@ -1,4 +1,4 @@
-# DevCapsule — AI-Powered Developer Environment Replicator
+# DevCapsule : AI-Powered Developer Environment Replicator
 
 DevCapsule scans a developer's machine, packages the full setup — editor,
 extensions, settings, runtimes, package managers, dev tools, and AI coding
