@@ -10,7 +10,7 @@ environments** (GitHub Copilot, Continue, Cline, OpenCode, Ollama) and by
 including a **hardware-aware optimization layer** that adjusts model
 recommendations when you move to a machine with less RAM or no GPU.
 
-## Why
+## Why?
 
 Standard sync tools (Settings Sync, dotfiles repos) cover editor prefs and
 maybe extensions. They don't touch runtime versions, local AI model
